@@ -1,0 +1,16 @@
+        h1 {
+            text-align: center;
+        }
+    body {
+        background-color: rgb(54, 56, 55);
+    }    
+    h2, ul, form, a{
+        color: rgb(255, 255, 255);
+    }
+    p, h1 {
+        color: rgb(255, 255, 255);
+    }
+    .img {
+        margin-left: auto;
+        margin-right: auto;
+    }
